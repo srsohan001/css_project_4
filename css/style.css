@@ -1,0 +1,21 @@
+.box1{
+	width: 100px;
+	height: 100px;
+	background-color: green;
+	padding: 100px 50px;
+	border-top: 5px solid yellow;
+	margin: 50px;
+}
+.box2{
+	width: 100px;
+	height: 100px;
+	background-color: red;
+	margin: 100px 100px;
+	padding: 100px 50px;
+}
+h1{
+	display: inline-block;
+}
+h2{
+	display: inline-block;
+}
